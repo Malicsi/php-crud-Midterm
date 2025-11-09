@@ -111,7 +111,7 @@
                 <div class="text-center mt-4">
                     <div class="system-info p-4 bg-light rounded">
                         <h4>System Information</h4>
-                        <p class="mb-1"><strong>Database:</strong> student_system</p>
+                        <p class="mb-1"><strong>Database:</strong> ralphgit</p>
                         <p class="mb-1"><strong>Table:</strong> students</p>
                         <p class="mb-0"><strong>Features:</strong> Complete CRUD Operations</p>
                     </div>
